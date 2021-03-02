@@ -1,7 +1,5 @@
 # WebDEFI
-#Glassmorphism
-Background => Particles.js
-Fonts: Manrope,DM Sans
+#Glassmorphism / Background => Particles.js / Fonts: Manrope,DM Sans
  
  
  
